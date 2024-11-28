@@ -1,3 +1,6 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+* Initial Release:
+- Retrieve platform version (e.g., Android/iOS version).
+- Retrieve the device ID. 
+- Retrieve the app version name.
